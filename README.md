@@ -1,5 +1,6 @@
 <h1 align="center">⭐Hi, I'm Emelie Olers⭐</h1>
-<h3>📌I'am a second year Information Technology student at KTH Royal Institute of Technology. I started programming in 2022 </h3>
+<h3>📌I'am a second year Information Technology student at KTH Royal Institute of Technology. </h3>
+ <h3>📌 I started programming in 2022 </h3>
 <h3>📌On my free time, I like to play football and spend time with my friends. </h3>
 
 - 📫 Contact me: **emelie.matsuda@gmail.com**
